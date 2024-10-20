@@ -99,8 +99,6 @@
 - Build Innovative Projects
 - Share Knowledge through Blog Posts
 
-[Previous content remains the same until the Fun fact section...]
-
 ### ⚡ Fun fact 
 "I debug with console.log() and I'm proud of it! 🎯"
 
