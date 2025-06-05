@@ -10,10 +10,11 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=rithendsushanth&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rithendsushanth&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/rithendsushanth?logo=github&style=for-the-badge&color=0969da&labelColor=302d41)](https://github.com/rithendsushanth)
+[![GitHub Stars](https://img.shields.io/github/stars/rithendsushanth?logo=github&style=for-the-badge&color=ffbc00&labelColor=302d41)](https://github.com/rithendsushanth)
 [![Years Badge](https://badges.pufler.dev/years/rithendsushanth?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rithendsushanth?style=for-the-badge)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/rithendsushanth?style=for-the-badge)](https://badges.pufler.dev)
 
 </div>
 
@@ -114,6 +115,17 @@
 
 ### 🎵 Currently Vibing To
 [![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+## 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithendsushanth&theme=tokyonight" width="100%">
+
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rithendsushanth&theme=aura_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rithendsushanth&theme=aura_dark)
 
 ### 💖 Thank You For Visiting!
 <p align="center">
