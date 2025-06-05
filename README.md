@@ -92,26 +92,6 @@
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/{rithendsushanth}/{rithendsushanth}/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  
-### 🎯 Goals for 2024
-- Master Cloud Native Technologies
-- Contribute to Open Source
-- Build Innovative Projects
-- Share Knowledge through Blog Posts
-
-### ⚡ Fun fact 
-"I debug with console.log() and I'm proud of it! 🎯"
-
-</div>
-
----
-<div align="center">
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon...
-<!-- BLOG-POST-LIST:END -->
 
 ### 🎵 Currently Vibing To
 [![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
